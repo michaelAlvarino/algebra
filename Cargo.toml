@@ -2,7 +2,7 @@
 name = "mathcli"
 description =  "Simple math for the cli"
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Michael Alvarino <michael.alvarino@gmail.com>"]
 edition = "2018"
 
