@@ -14,4 +14,4 @@ $ 6
 2. `cargo install mathcli`
 
 ### Contributing
-Feel free to make a CR.
+Feel free to make a CR at https://github.com/michaelAlvarino/mathcli.
